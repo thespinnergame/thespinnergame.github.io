@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://thespinnergame.github.io/hexxed_website/sitemap.xml
